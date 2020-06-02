@@ -1,0 +1,2 @@
+naming convention of files:
+vins_output_<max_pts>_<window_size>_<ceres-solver time scenario>
